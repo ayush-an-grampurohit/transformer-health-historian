@@ -79,7 +79,7 @@ All data in `seed_data.py` is synthetic but realistic (11 kV fleet, 5 transforme
 ## Team
 
 - **Ayush A N Grampurohit**: Hindsight memory integration (retain / recall / reflect), agent logic and backend (`core.py`)
-- **Bhoomi Kahallikeri**: Streamlit user interface, before/after Compare view and demo flow (`app.py`)
+- **Bhoomika hallikeri**: Streamlit user interface, before/after Compare view and demo flow (`app.py`)
 - **Yashaswini R Kareppanavar**: Domain research on transformer DGA, IEEE C57.104-2019 and the need statement
 - **Varsha S Mudakavi**: Synthetic fleet data design: DGA readings, maintenance, failure and verdict records (`seed_data.py`)
 - **Prajwal Bevoor**: Testing, local Hindsight server setup, documentation and demo video
